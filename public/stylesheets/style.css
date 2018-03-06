@@ -61,3 +61,12 @@ code {
 .page-header {
   margin-top: 5em !important;
 }
+
+li.tweets {
+  color: blue;
+  list-style: none;
+  background: url('../img/blueCheck.png') no-repeat left top;
+  height: 50px;
+  padding-left: 44px;
+}
+
